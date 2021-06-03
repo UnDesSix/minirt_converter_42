@@ -1,7 +1,7 @@
 # minirt_converter_42
 
 ### Description
-A very useful program to conert .obj into .rt for my project [Mini-RT](https://github.com/UnDesSix/minirt_42)
+A very useful program to convert .obj into .rt for my project [Mini-RT](https://github.com/UnDesSix/minirt_42)
 
 Thank you [Zodiac](https://github.com/ZodiacFRA) for your help :fire:
 
